@@ -1,190 +1,33 @@
-[Thu May  8 12:17:22 2025
-] Temperatura: -3.42
-[Thu May  8 12:17:26 2025
-] Temperatura: 16.93
-[Thu May  8 12:17:33 2025
-] Temperatura: 10.02
-[Thu May  8 12:17:38 2025
-] Temperatura: -6.20
-[Thu May  8 12:17:44 2025
-] Temperatura: 7.15
-[Thu May  8 12:18:07 2025
-] Temperatura: 26.14
-[Thu May  8 12:18:11 2025
-] Temperatura: 10.12
-[Thu May  8 12:18:14 2025
-] Temperatura: 26.31
-[Thu May  8 12:18:20 2025
-] Temperatura: -6.50
-[Thu May  8 12:18:25 2025
-] Humedad: 81.00
-[Thu May  8 12:18:26 2025
-] Temperatura: 27.78
-[Thu May  8 12:18:32 2025
-] Viento: 46.00
-[Thu May  8 12:18:33 2025
-] Temperatura: -0.40
-[Thu May  8 12:18:37 2025
-] Humedad: 22.00
-[Thu May  8 12:18:38 2025
-] Viento: 39.10
-[Thu May  8 12:18:40 2025
-] Temperatura: 29.56
-[Thu May  8 12:18:41 2025
-] Precipitacion: 10.90
-[Thu May  8 12:18:45 2025
-] Viento: 49.50
-[Thu May  8 12:18:45 2025
-] Temperatura: 0.72
-[Thu May  8 12:18:48 2025
+[Thu May  8 15:21:42 2025
+] Viento: 26.00
+Humedad: 49.00
+[Thu May  8 15:21:46 2025
+] Viento: 34.60
+[Thu May  8 15:21:52 2025
+] Viento: 39.70
+[Thu May  8 15:21:56 2025
 ] Humedad: 23.00
-[Thu May  8 12:18:50 2025
-] Temperatura: 28.79
-[Thu May  8 12:18:52 2025
-] Viento: 14.50
-[Thu May  8 12:18:53 2025
-] Precipitacion: 2.50
-[Thu May  8 12:18:55 2025
-] Temperatura: 19.02
-[Thu May  8 12:18:58 2025
-] Viento: 6.70
-[Thu May  8 12:19:00 2025
-] Temperatura: -2.96
-[Thu May  8 12:19:00 2025
-] Humedad: 75.00
-[Thu May  8 12:19:03 2025
-] Precipitacion: 11.80
-[Thu May  8 12:19:05 2025
-] Viento: 3.30
-[Thu May  8 12:19:06 2025
-] Temperatura: 26.16
-[Thu May  8 12:19:11 2025
-] Viento: 1.30
-[Thu May  8 12:19:12 2025
-] Precipitacion: 3.20
-[Thu May  8 12:19:13 2025
-] Temperatura: 20.77
-[Thu May  8 12:19:14 2025
-] Humedad: 3.00
-[Thu May  8 12:19:16 2025
-] Viento: 15.30
-[Thu May  8 12:19:19 2025
-] Viento: 20.10
-[Thu May  8 12:19:19 2025
-] Temperatura: 5.29
-[Thu May  8 12:19:22 2025
-] Precipitacion: 5.40
-[Thu May  8 12:19:25 2025
-] Viento: 48.90
-[Thu May  8 12:19:25 2025
-] Temperatura: 2.10
-[Thu May  8 12:19:28 2025
-] Humedad: 97.00
-[Thu May  8 12:19:31 2025
-] Temperatura: -8.73
-[Thu May  8 12:19:32 2025
-] Viento: 15.20
-[Thu May  8 12:19:33 2025
-] Precipitacion: 17.80
-[Thu May  8 12:19:36 2025
-] Viento: 0.70
-[Thu May  8 12:19:36 2025
-] Temperatura: -6.84
-[Thu May  8 12:19:39 2025
-] Temperatura: 5.04
-[Thu May  8 12:19:39 2025
-] Humedad: 73.00
-[Thu May  8 12:19:42 2025
-] Viento: 17.50
-[Thu May  8 12:19:45 2025
-] Precipitacion: 12.00
-[Thu May  8 12:19:46 2025
-] Temperatura: -3.05
-[Thu May  8 12:19:47 2025
-] Viento: 20.50
-[Thu May  8 12:19:53 2025
-] Temperatura: -4.93
-[Thu May  8 12:19:53 2025
-] Humedad: 95.00
-[Thu May  8 12:19:54 2025
-] Viento: 24.10
-[Thu May  8 12:19:56 2025
-] Temperatura: 7.09
-[Thu May  8 12:19:57 2025
-] Precipitacion: 7.60
-[Thu May  8 12:20:00 2025
-] Viento: 12.00
-[Thu May  8 12:20:01 2025
-] Temperatura: -7.21
-[Thu May  8 12:20:06 2025
-] Viento: 12.60
-[Thu May  8 12:20:06 2025
-] Temperatura: 8.77
-[Thu May  8 12:20:06 2025
-] Precipitacion: 0.40
-[Thu May  8 12:20:07 2025
-] Humedad: 90.00
-[Thu May  8 12:20:10 2025
-] Viento: 28.20
-[Thu May  8 12:20:10 2025
-] Temperatura: -3.91
-[Thu May  8 12:20:16 2025
-] Viento: 45.50
-[Thu May  8 12:20:16 2025
-] Temperatura: 28.20
-[Thu May  8 12:20:17 2025
-] Precipitacion: 10.90
-[Thu May  8 12:20:19 2025
-] Viento: 13.10
-[Thu May  8 12:20:19 2025
+[Thu May  8 15:21:56 2025
+] Viento: 42.60
+[Thu May  8 15:22:02 2025
+] Viento: 39.60
+[Thu May  8 15:22:06 2025
+] Viento: 27.20
+[Thu May  8 15:22:09 2025
 ] Humedad: 69.00
-[Thu May  8 12:20:22 2025
-] Temperatura: 19.25
-[Thu May  8 12:20:25 2025
-] Viento: 7.60
-[Thu May  8 12:20:29 2025
-] Viento: 49.30
-[Thu May  8 12:20:29 2025
-] Temperatura: 6.51
-[Thu May  8 12:20:29 2025
-] Precipitacion: 9.60
-[Thu May  8 12:20:30 2025
-] Humedad: 14.00
-[Thu May  8 12:20:36 2025
-] Viento: 31.10
-[Thu May  8 12:20:36 2025
-] Temperatura: -9.69
-[Thu May  8 12:20:40 2025
-] Viento: 38.10
-[Thu May  8 12:20:40 2025
-] Precipitacion: 4.90
-[Thu May  8 12:20:41 2025
-] Humedad: 15.00
-[Thu May  8 12:20:42 2025
-] Temperatura: 2.19
-[Thu May  8 12:20:45 2025
-] Viento: 15.10
-[Thu May  8 12:20:47 2025
-] Temperatura: 1.41
-[Thu May  8 14:30:28 2025
-] Precipitacion: 1.10
-[Thu May  8 14:30:28 2025
-] Humedad: 26.00
-[Thu May  8 14:30:39 2025
-] Precipitacion: 9.20
-[Thu May  8 14:30:39 2025
-] Humedad: 25.00
-[Thu May  8 14:30:48 2025
-] Precipitacion: 13.80
-[Thu May  8 14:30:49 2025
-] Humedad: 59.00
-[Thu May  8 14:31:00 2025
-] Precipitacion: 18.10
-[Thu May  8 14:31:02 2025
-] Humedad: 30.00
-[Thu May  8 14:31:12 2025
-] Humedad: 6.00
-[Thu May  8 14:31:12 2025
-] Precipitacion: 18.70
-[Thu May  8 14:31:24 2025
-] Precipitacion: 0.80
+[Thu May  8 15:22:10 2025
+] Viento: 22.90
+[Thu May  8 15:22:13 2025
+] Viento: 44.50
+[Thu May  8 15:22:17 2025
+] Viento: 32.50
+[Thu May  8 15:22:23 2025
+] Humedad: 54.00
+[Thu May  8 15:22:23 2025
+] Viento: 2.80
+[Thu May  8 15:22:28 2025
+] Viento: 13.30
+[Thu May  8 15:22:32 2025
+] Viento: 27.30
+[Thu May  8 15:22:33 2025
+] Humedad: 46.00

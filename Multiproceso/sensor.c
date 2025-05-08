@@ -10,10 +10,16 @@
 void enviarDato(const char *tipo, float valor)
 {
     int fifo_fd = open(FIFO_PATH, O_WRONLY);
+
+    printf("FIFO abierto\n");
+
     if (fifo_fd >= 0)
     {
         char mensaje[128];
         snprintf(mensaje, sizeof(mensaje), "%s: %.2f\n", tipo, valor);
+
+        printf("Escribiendo en FIFO: %s", mensaje);
+
         write(fifo_fd, mensaje, strlen(mensaje));
         close(fifo_fd);
     }
@@ -37,7 +43,7 @@ int main(int argc, char *argv[])
 
         if (strcmp(tipo, "Temperatura") == 0)
         {
-            valor = (rand() % 4000) / 100.0 - 10; // -10 a 30
+            valor = (rand() % 4000) / 100.0 - 10;
             espera = 5 + (rand() % 5 - 2);
         }
         else if (strcmp(tipo, "Humedad") == 0)
