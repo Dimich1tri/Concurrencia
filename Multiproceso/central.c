@@ -10,7 +10,7 @@
 
 int main()
 {
-    FILE *archivo = fopen(FIFO_PATH, O_APPEND);
+    FILE *archivo = fopen(FIFO_PATH, "a");
     if (!archivo)
     {
         perror("No se pudo abrir el archivo clima.txt");

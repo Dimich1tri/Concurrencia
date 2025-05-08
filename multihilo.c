@@ -8,12 +8,12 @@
 
 pthread_mutex_t file_mutex;
 
-#define FILE_PATH "multiclima.txt";
+#define FILE_PATH "multiclima.txt"
 
 void escribirArchivo(const char *tipo, float valor)
 {
     pthread_mutex_lock(&file_mutex);
-    int f = fopen(FILE_PATH, O_APPEND);
+    FILE *f = fopen(FILE_PATH, "a");
     if (f != NULL)
     {
         time_t t = time(NULL);
